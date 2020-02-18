@@ -1,0 +1,1 @@
+<h1 class="text-center">KONTAK KAMI</h1>

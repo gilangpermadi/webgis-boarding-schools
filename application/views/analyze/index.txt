@@ -1,0 +1,47 @@
+<div class="row">
+            <div class="col-sm-6">
+              <div class="card border-success text-center">
+              <div class="card-header">Data Pondok Pesantren</div>
+                <div class="card-body">
+                  <p class="card-text">Kelola data pondok pesantren yang telah mendapatkan izin operasional dari Kementrian Agama</p>
+                  <a href="<?php echo base_url('admin/dataPonpes'); ?>" class="btn btn-success">Kelola Pondok Pesantren</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="card border-success text-center">
+                <div class="card-header">Data Kriteria</div>
+                <div class="card-body">
+                  <p class="card-text">Data kriteria digunakan untuk proses analisa, hasil analisa ditentukan berdasarkan data kriteria</p>
+                  <a href="#" class="btn btn-success">Kelola Kriteria</a>
+                </div>
+               </div>
+            </div>
+            <div class="col-sm-6 mt-4">
+              <div class="card border-success text-center">
+                <div class="card-header">Data Penilaian</div>
+                <div class="card-body">
+                  <p class="card-text">Data penilaian digunakan untuk normalisasi data pondok pesantren sebelum lanjut ke analisa data</p>
+                  <a href="#" class="btn btn-success">Penilaian</a>
+                </div>
+               </div>
+            </div>
+            <div class="col-sm-6 mt-4">
+              <div class="card border-success text-center">
+                <div class="card-header">Fuzzy C-Means</div>
+                <div class="card-body">
+                  <p class="card-text">Fuzzy C-Means adalah metode untuk analisa data dan melihat proses perhitungan analisanya</p>
+                  <a href="#" class="btn btn-success">Perhitungan</a>
+                </div>
+               </div>
+            </div>
+            <div class="col-sm-12 mt-4">
+              <div class="card border-success text-center">
+                <div class="card-header">Hasil Fuzzy C-Means</div>
+                <div class="card-body">
+                  <p class="card-text">Hasil dari perhitungan akan muncul pada menu ini</p>
+                  <a href="#" class="btn btn-success">Hasil</a>
+                </div>
+               </div>
+            </div>
+          </div>

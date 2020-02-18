@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4359141,
+                    -7.6171769
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0001",
+                "nspp": "  510335160001",
+                "nama": "AL-HAMID BANGON ",
+                "alamat": "Dusun Bangon, Rt. 006, Rw.002, Bleberan, Jatirejo",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "1952-03-24",
+                "yayasan": "Yayasan Pondok Pesantren Al-Hamid Bangon",
+                "id_daerah": "1",
+                "id_program": "1",
+                "jumlah_santri": "71",
+                "jumlah_tenaga": "19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4052718,
+                    -7.6171754
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0002",
+                "nspp": "510035160002",
+                "nama": "BIDAYATUL HIDAYAH",
+                "alamat": "Jl. Kh. Yahdi, Dsn. Mojogeneng, Mojogeneng, Jatirejo",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "1940-12-31",
+                "yayasan": "",
+                "id_daerah": "1",
+                "id_program": "2",
+                "jumlah_santri": "1000",
+                "jumlah_tenaga": "58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4223165,
+                    -7.5899092
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0003",
+                "nspp": "510035160003",
+                "nama": "ISMUL HAQ",
+                "alamat": "Dusun Kowang, Gebangsari, Jatirejo",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "2001-12-31",
+                "yayasan": "Yayasan Ismul Haq",
+                "id_daerah": "2",
+                "id_program": "4",
+                "jumlah_santri": "120",
+                "jumlah_tenaga": "23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4401166,
+                    -7.5822232
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0004",
+                "nspp": "510035160004",
+                "nama": "KUN 'ALIMAN",
+                "alamat": "Dusun Mojogeneng, Mojogeneng, Jatirejo",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "2008-12-31",
+                "yayasan": "",
+                "id_daerah": "1",
+                "id_program": "2",
+                "jumlah_santri": "224",
+                "jumlah_tenaga": "26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.3824597,
+                    -7.5796973
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0005",
+                "nspp": "510035160005",
+                "nama": "NURUL ULUM",
+                "alamat": "Dusun Dinoyo, Dinoyo, Jatirejo",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "2000-12-31",
+                "yayasan": "Yayasan Nurul Ulum Dinoyo Jatirejo Mojokerto",
+                "id_daerah": "1",
+                "id_program": "2",
+                "jumlah_santri": "63",
+                "jumlah_tenaga": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.4717188,
+                    -7.526889
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0006",
+                "nspp": "510035160006",
+                "nama": "ROBITHOTUL ULUM",
+                "alamat": "Dusun Tumapel, Jatirejo, Jatirejo ",
+                "id_kecamatan": "6",
+                "tgl_berdiri": "1980-12-31",
+                "yayasan": "",
+                "id_daerah": "1",
+                "id_program": "3",
+                "jumlah_santri": "75",
+                "jumlah_tenaga": "26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5433014,
+                    -7.6355419
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0007",
+                "nspp": "510035160011",
+                "nama": "AL ISTIQOMAH II",
+                "alamat": "Jl. raya jubel km 04 merak, bendunganjati, pacet",
+                "id_kecamatan": "13",
+                "tgl_berdiri": "1998-04-14",
+                "yayasan": "Yayasan Pendidikan Dan Sosial Al Istiqomah II",
+                "id_daerah": "1",
+                "id_program": "4",
+                "jumlah_santri": "264",
+                "jumlah_tenaga": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5382479,
+                    -7.666438
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0008",
+                "nspp": "510335160015",
+                "nama": "FATCHUL ULUM",
+                "alamat": "Jl. Moch. Sholeh 270, Pacet, Pacet",
+                "id_kecamatan": "13",
+                "tgl_berdiri": "1990-08-17",
+                "yayasan": "Yayasan Saraswati Mojokerto",
+                "id_daerah": "1",
+                "id_program": "3",
+                "jumlah_santri": "514",
+                "jumlah_tenaga": "34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5565683,
+                    -7.6520787
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0009",
+                "nspp": "510035160016",
+                "nama": "NURUL UMMAH",
+                "alamat": "Jl. Tirta Wening No. 4, Kembangbelor, Pacet",
+                "id_kecamatan": "13",
+                "tgl_berdiri": "2005-05-15",
+                "yayasan": "Yayasan Amanatul Ummah Surabaya",
+                "id_daerah": "1",
+                "id_program": "3",
+                "jumlah_santri": "240",
+                "jumlah_tenaga": "34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.5565683,
+                    -7.6520787
+                ]
+            },
+            "properties": {
+                "id_ponpes": "P0010",
+                "nspp": "510035160017",
+                "nama": "PUTERA I NURUL UMMAH",
+                "alamat": "Jl. Tirta Wening No. 4, Kembangbelor, Pacet",
+                "id_kecamatan": "13",
+                "tgl_berdiri": "2009-01-17",
+                "yayasan": "Yayasan Amanatul Ummah Surabaya",
+                "id_daerah": "1",
+                "id_program": "3",
+                "jumlah_santri": "103",
+                "jumlah_tenaga": "17"
+            }
+        }
+    ]
+}
